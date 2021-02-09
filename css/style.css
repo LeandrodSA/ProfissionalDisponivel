@@ -1,0 +1,68 @@
+
+nav{
+    background-color: darkslategrey;
+    height: 100px;
+}
+
+.text-font{
+    font-family: 'Cabin', sans-serif;
+}
+
+.text-title{
+    color: darkgrey;
+    text-align: center; 
+}
+
+.h-conf1{
+    float: left;
+    padding-top: 6%;
+    padding-left: 5%;
+}
+
+.h-conf2{
+    float: right;
+    padding-top: 6%;
+    padding-right: 5%;
+}
+
+
+.img-icon{
+    width: 5%;
+    display: block;
+    padding-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-back{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer{
+    background-color: darkslategrey;
+    position: relative;    
+    height: 100px;
+    clear: both;
+}
+
+.div-conf{
+    background-color: dimgray;
+    padding: 5%;
+    float: left;
+    width: 30%;
+}
+
+.div-conf2{
+    width:100%;
+}
+
+.img-back2{
+    background-color: gold;
+    height: 824px;
+}
+
+.img-conf1{
+    padding: 5%;
+}

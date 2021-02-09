@@ -1,0 +1,14 @@
+{
+    "name": "projeto-final/view",
+    "description": "Profissionais mais perto de voc\u0000.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leandro Silveira",
+            "email": "big.foot.rpg@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
